@@ -1,0 +1,4 @@
+baseURL = "http://example.org/"
+languageCode = "en-us"
+title = "Primeiro blog personalizado"
+theme = "terminal"
